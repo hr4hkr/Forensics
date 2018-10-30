@@ -1,5 +1,4 @@
 # Evil Crypter (InCTFi 2018)
-## Author: stuxn3t
 
 This challenge basically dealt with dumping files from the given volatile memory and finding the flag. The flag had to found as two parts, one in a script and other from an image. Both files had to found and dumped from the memory dump given. Please read the writeup to this challenge.
 
