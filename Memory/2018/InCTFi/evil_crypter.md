@@ -35,6 +35,6 @@ The password is the first part of the flag that can be found from the script, wh
 In the challenge there is a script that is dumped from the memory dump and its output is also given (It can be seen  that the output is written into another file). Hence we have the encoding script and the output. Since the script is simple xoring and hex decoding it can be easily reversed to find the first part of the flag.
 
 Script:
-  ![pic](../img/script.png)
+  ![pic](./img/script.png)
 
 By putting the first part of the flag in steghide the final part is shown.Hence the flag is **inctf{0n3_h4lf_1s_n0t_3n0ugh}**
